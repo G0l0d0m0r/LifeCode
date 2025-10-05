@@ -1,7 +1,7 @@
 Пытаюсь загрузить описание проекта..
 
 > [!NOTE]
-> - Контакты: [Telegram](https://t.me/durov)  
+> - Контакты: [Telegram](https://t.me/dvpqvb)  
 > - 🇪🇳 README in english available [here](README-EN.md)
 ---
 ## Как запустить
